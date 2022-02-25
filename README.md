@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Marques6-prog
-- 👀 I’m interested in Mobile development
+- 👀 I’m interested in Mobile and Web development
 - 🌱 I’m currently learning Flutter
+- 💻 Learning JS, PhP and Lavarel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
