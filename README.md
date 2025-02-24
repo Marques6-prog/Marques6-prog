@@ -1,29 +1,48 @@
-<h1 align="center">Hi 👋, I'm Jefferson Marques</h1>
-<h3 align="center">A passionate Mobile Developer</h3>
+### Hi there, I'm Jefferson Marques! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marques6-prog&label=Profile%20views&color=0e75b6&style=flat" alt="marques6-prog" /> </p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Mobile+Developer+%7C+Flutter+%7C+Dart;Building+Awesome+Apps+with+Supabase+%26+Firebase;Open+Source+Contributor+%F0%9F%9A%80)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marques6-prog" alt="marques6-prog" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Flutter**
+### 🚀 About Me:
+- 🔭 I’m currently working on **Flutter projects**
+- 🌱 Exploring **Supabase & Firebase** for backend services
+- 💬 Ask me about **Flutter, Dart, and Firebase**
+- ⚡ Fun fact: I love **open-source contributions & animations**
 
-- 👯 I’m looking to collaborate on **Mobile apps**
+---
 
-- 🤝 I’m looking for help with **Kotlin**
+### 🛠 Tech Stack:
 
-- 💬 Ask me about **MObile development**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 📫 How to reach me **Marquessimba7@gmail.com**
+---
 
-- ⚡ Fun fact **I'm a boxer too.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 📊 GitHub Stats:
+---
+<p align="center">
+  <a href="https://github.com/<your-username>">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&langs_count=3&theme=tokyonight&layout=compact&hide=html,css,javascript" alt="Top Langs" />
+  </a>
 </p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### 🚀 **Tech Stack**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marques6-prog&show_icons=true&locale=en&layout=compact" alt="marques6-prog" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marques6-prog&show_icons=true&locale=en" alt="marques6-prog" /></p>
+
+
+
+### 🌐 Connect with Me:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/<your-handle>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-profile>)
+
+✨ *Let's build amazing apps together!* 🚀
