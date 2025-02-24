@@ -45,6 +45,6 @@
 
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/<your-profile>](https://www.linkedin.com/in/jefferson-marques-a62ab21b2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-marques-a62ab21b2/)
 
 ✨ *Let's build amazing apps together!* 🚀
